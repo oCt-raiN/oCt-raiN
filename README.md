@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31x54yfwjyskrpwlnekk3565xt5u&width=300)
 </div>
 <!--
