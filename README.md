@@ -1,4 +1,4 @@
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31x54yfwjyskrpwlnekk3565xt5u&width=300)
+https://spotify-recently-played-readme.vercel.app/api?user=31x54yfwjyskrpwlnekk3565xt5u&width=300
 
 <!--
 **oCt-raiN/oCt-raiN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
