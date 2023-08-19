@@ -1,4 +1,4 @@
-<h1 align="left">Hey <img src = "./assets/wired-gradient-268-avatar-man.gif" type="img/gif"> What's up?</h1>
+<h1 align="left" class="text-primary">Hey <img src = "./assets/wired-gradient-268-avatar-man.gif" type="img/gif"> What's up?</h1>
 
 ###
 
