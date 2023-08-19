@@ -1,4 +1,4 @@
-<h1 align="left">Hey <script src="https://cdn.lordicon.com/bhenfmcm.js"></script>
+<h1 align="left">Hey 
 <lord-icon
     src="https://cdn.lordicon.com/amxnacxd.json"
     trigger="loop"
