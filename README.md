@@ -1,12 +1,4 @@
-<h1 align="left">Hey 
-<lord-icon
-    src="https://cdn.lordicon.com/amxnacxd.json"
-    trigger="loop"
-    delay="500"
-    colors="primary:#4be1ec,secondary:#e8308c"
-    state="hover-2"
-    style="width:250px;height:250px">
-</lord-icon> What's up?</h1>
+<h1 align="left">Hey What's up?</h1>
 
 ###
 
