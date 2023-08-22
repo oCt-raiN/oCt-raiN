@@ -11,8 +11,9 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=oct-rain&show_icons=true&theme=dark&locale=en" alt="oct-rain" /></p>
 
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oct-rain&theme=dark" alt="oct-rain" /></p>
-
+</div>
 
 <div align="center">
   
