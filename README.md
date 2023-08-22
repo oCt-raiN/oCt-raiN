@@ -4,6 +4,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oct-rain&label=Profile%20views&color=0e75b6&style=flat" alt="oct-rain" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oct-rain" alt="oct-rain" /></a> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oct-rain&show_icons=true&theme=dark&locale=en&layout=compact" alt="oct-rain" /></p>
