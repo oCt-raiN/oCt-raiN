@@ -1,4 +1,11 @@
-<h1 align="left" class="text-primary">Hey <img src = "./assets/wired-gradient-268-avatar-man-32.gif" type="img/gif"> What's up?</h1>
+<h1 align="left" class="text-primary">Hey <lord-icon
+    src="https://cdn.lordicon.com/amxnacxd.json"
+    trigger="loop"
+    delay="500"
+    colors="primary:#4be1ec,secondary:#e8308c"
+    state="hover-2"
+    style="width:20px;height:20px">
+</lord-icon> <img src = "./assets/wired-gradient-268-avatar-man-32.gif" type="img/gif"> What's up?</h1>
 
 ###
 <h3 align="center">A passionate Software developer from India</h3>
@@ -35,3 +42,4 @@ Here are some ideas to get you started:
 
 - https://spotify-recently-played-readme.vercel.app/
 -->
+<script src="https://cdn.lordicon.com/bhenfmcm.js"></script>
