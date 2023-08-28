@@ -5,7 +5,7 @@
 <div align="center">
 <p > <img src="https://komarev.com/ghpvc/?username=oct-rain&label=Profile%20views&color=0e75b6&style=flat" alt="oct-rain" /> </p>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=oCt-raiN&column=8&margin-w=15&no-frame=true&theme=juicyfresh)](https://github.com/oCt-raiN/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=oCt-raiN&column=6&margin-w=15&no-frame=true&theme=onestar)](https://github.com/oCt-raiN/github-profile-trophy)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oct-rain&show_icons=true&theme=dark&locale=en&layout=compact" alt="oct-rain" /></p>
 
