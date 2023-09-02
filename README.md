@@ -13,7 +13,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oct-rain&theme=dark" alt="oct-rain" /></p>
   
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31x54yfwjyskrpwlnekk3565xt5u&width=1000)
 </div>
 <!--
 **oCt-raiN/oCt-raiN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
