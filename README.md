@@ -1,7 +1,7 @@
 <h1 align="left" class="text-primary">Hey <img src = "./assets/wired-gradient-268-avatar-man-32.gif" type="img/gif"> What's up?</h1>
 
 ###
-<h3 align="left">A passionate Software developer from India</h3>
+
 <div align="center">
 <p > <img src="https://komarev.com/ghpvc/?username=oct-rain&label=Profile%20views&color=0e75b6&style=flat" alt="oct-rain" /> </p>
   
