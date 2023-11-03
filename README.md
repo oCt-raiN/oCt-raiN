@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-<p > <img src="https://komarev.com/ghpvc/?username=oct-rain&label=Profile%20views&color=0e75b6&style=flat" alt="oct-rain" /> </p>
+
   
 [![trophy](https://github-trophies.vercel.app/?username=oCt-raiN&column=6&margin-w=15&no-frame=true&theme=onestar)](https://github.com/oCt-raiN/github-profile-trophy)
 
