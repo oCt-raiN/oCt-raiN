@@ -1,10 +1,3 @@
-<style>
-
-img {
-  height:10px;
-}
-</style>
-
 <h1 align="left" class="text-primary">Hey <img src = "./assets/wired-gradient-268-avatar-man-32.gif" type="img/gif"> What's up?</h1>
 
 ###
