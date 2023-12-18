@@ -38,3 +38,9 @@ Here are some ideas to get you started:
 - https://spotify-recently-played-readme.vercel.app/
 --!>
 
+<p align="center"> 
+  Visitor Count<br>
+<img src="https://profile-counter.glitch.me/oCt-raiN/count.svg" />
+</p>
+
+
