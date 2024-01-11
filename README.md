@@ -11,7 +11,7 @@
 
 [![trophy](https://github-trophies.vercel.app/?username=oCt-raiN&column=6&margin-w=15&no-frame=true&theme=onestar)](https://github.com/oCt-raiN/github-profile-trophy)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oCt-raiN&theme=gotham)
+<!--![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oCt-raiN&theme=gotham)--!>
 <!--
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oct-rain&show_icons=true&theme=dark&locale=en&layout=compact" alt="oct-rain" /></p>
 
