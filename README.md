@@ -1,4 +1,4 @@
-<h1 align="left" class="text-primary">Hey What's up?</h1>
+<h1 align="left" class="text-primary">Hey, What's up?</h1>
 
 ###
 
